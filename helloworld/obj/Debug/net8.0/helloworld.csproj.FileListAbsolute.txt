@@ -1,0 +1,14 @@
+/home/layton/Desktop/C#/helloworld/bin/Debug/net8.0/helloworld
+/home/layton/Desktop/C#/helloworld/bin/Debug/net8.0/helloworld.deps.json
+/home/layton/Desktop/C#/helloworld/bin/Debug/net8.0/helloworld.runtimeconfig.json
+/home/layton/Desktop/C#/helloworld/bin/Debug/net8.0/helloworld.dll
+/home/layton/Desktop/C#/helloworld/bin/Debug/net8.0/helloworld.pdb
+/home/layton/Desktop/C#/helloworld/obj/Debug/net8.0/helloworld.GeneratedMSBuildEditorConfig.editorconfig
+/home/layton/Desktop/C#/helloworld/obj/Debug/net8.0/helloworld.AssemblyInfoInputs.cache
+/home/layton/Desktop/C#/helloworld/obj/Debug/net8.0/helloworld.AssemblyInfo.cs
+/home/layton/Desktop/C#/helloworld/obj/Debug/net8.0/helloworld.csproj.CoreCompileInputs.cache
+/home/layton/Desktop/C#/helloworld/obj/Debug/net8.0/helloworld.dll
+/home/layton/Desktop/C#/helloworld/obj/Debug/net8.0/refint/helloworld.dll
+/home/layton/Desktop/C#/helloworld/obj/Debug/net8.0/helloworld.pdb
+/home/layton/Desktop/C#/helloworld/obj/Debug/net8.0/helloworld.genruntimeconfig.cache
+/home/layton/Desktop/C#/helloworld/obj/Debug/net8.0/ref/helloworld.dll
